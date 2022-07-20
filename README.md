@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://manage-landch.netlify.app)
-- Live Site URL: [Add live site URL here](https://manage-landch.netlify.app)
+- Solution URL: https://manage-landch.netlify.app
+- Live Site URL: https://manage-landch.netlify.app
 
 ## My Process
 
