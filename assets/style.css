@@ -288,6 +288,7 @@ header .container {
 
 .toggle i {
   font-size: var(--fs-800);
+  color: var(--very-dark-blue);
 }
 
 .hidden {
